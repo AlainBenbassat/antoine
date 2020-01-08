@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/antoine</path>
+    <page_callback>CRM_Antoine_Form_MyForm</page_callback>
+    <title>MyForm</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
