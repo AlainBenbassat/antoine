@@ -5,6 +5,7 @@
 (*FIXME: In one or two paragraphs, describe what the extension does and why one would download it. *)
 
 The extension is licensed under [AGPL-3.0](LICENSE.txt).
+test
 
 ## Requirements
 
